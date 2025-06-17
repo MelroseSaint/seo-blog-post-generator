@@ -1,0 +1,14 @@
+{
+  "name": "seo-blog-post-generator",
+  "version": "1.0.0",
+  "description": "A powerful tool that helps you generate SEO-optimized blog posts with AI assistance and competitive analysis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
